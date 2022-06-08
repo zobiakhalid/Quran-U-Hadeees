@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126526722546",
+    "project_id": "quranuhadees",
+    "storage_bucket": "quranuhadees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126526722546:android:e33e180099acd1c3fb9b6b",
+        "android_client_info": {
+          "package_name": "com.zobiakhalid.fragments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126526722546-lpvvd3oqnupornfi54vnoqpldvcimqoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14fzpcgEKUwwEda6SSuW7nnKN3oked8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126526722546-lpvvd3oqnupornfi54vnoqpldvcimqoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
